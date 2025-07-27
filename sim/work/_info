@@ -1,0 +1,97 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vAcumulador
+Z0 !s110 1753532072
+!i10b 1
+!s100 ;H^Tf9EM@aaIS?_942R4<0
+IGhk3eQ0`0U:;MzjP<lc`P1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/ENGG52/sim
+w1753368696
+8C:/ENGG52/acumulador.v
+FC:/ENGG52/acumulador.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1753532072.000000
+!s107 C:/ENGG52/acumulador.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ENGG52/acumulador.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@acumulador
+vFSM
+R0
+!i10b 1
+!s100 Y>SlfnR1m97=J6ZI[oYeX2
+ICThjMR8cf]OM?B>UR9=K92
+R1
+R2
+w1753368733
+8C:/ENGG52/fsm.v
+FC:/ENGG52/fsm.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/ENGG52/fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ENGG52/fsm.v|
+!i113 1
+R5
+R6
+n@f@s@m
+vtestbench
+R0
+!i10b 1
+!s100 nOC?9OAeWHeb;6V^?n?3=2
+IQY=I;^:1k?<C4ZozXlUie0
+R1
+R2
+w1753368842
+8C:/ENGG52/testbench.v
+FC:/ENGG52/testbench.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/ENGG52/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ENGG52/testbench.v|
+!i113 1
+R5
+R6
+vTOP
+R0
+!i10b 1
+!s100 8]aPM<dgcUD7I6`2aZdbe2
+IYAa6ddL3Ih7eRc7gBgA8d0
+R1
+R2
+w1753368788
+8C:/ENGG52/top.v
+FC:/ENGG52/top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/ENGG52/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ENGG52/top.v|
+!i113 1
+R5
+R6
+n@t@o@p
