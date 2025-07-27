@@ -1,0 +1,177 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[12]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[13]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[14]",
+					"strict" : false
+				},
+				{
+					"name" : "DataIn[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadEnable",
+					"strict" : false
+				},
+				{
+					"name" : "WriteEnable",
+					"strict" : false
+				},
+				{
+					"name" : "Ready",
+					"strict" : false
+				},
+				{
+					"name" : "Clock",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[12]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[13]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[14]",
+					"strict" : false
+				},
+				{
+					"name" : "DataOut[15]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

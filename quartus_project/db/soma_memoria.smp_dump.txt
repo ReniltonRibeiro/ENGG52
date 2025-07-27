@@ -1,0 +1,14 @@
+
+State Machine - |TOP|FSM:fsm_inst|state
+Name state.RESET_FSM state.SIGNAL_READY2 state.SIGNAL_READY1 state.FINAL_WRITE state.NEXT_BLOCK state.SUM_RESULTS state.WRITE_RESULT state.ACCUMULATE state.WAIT_READ state.LOAD state.IDLE 
+state.IDLE 0 0 0 0 0 0 0 0 0 0 0 
+state.LOAD 0 0 0 0 0 0 0 0 0 1 1 
+state.WAIT_READ 0 0 0 0 0 0 0 0 1 0 1 
+state.ACCUMULATE 0 0 0 0 0 0 0 1 0 0 1 
+state.WRITE_RESULT 0 0 0 0 0 0 1 0 0 0 1 
+state.SUM_RESULTS 0 0 0 0 0 1 0 0 0 0 1 
+state.NEXT_BLOCK 0 0 0 0 1 0 0 0 0 0 1 
+state.FINAL_WRITE 0 0 0 1 0 0 0 0 0 0 1 
+state.SIGNAL_READY1 0 0 1 0 0 0 0 0 0 0 1 
+state.SIGNAL_READY2 0 1 0 0 0 0 0 0 0 0 1 
+state.RESET_FSM 1 0 0 0 0 0 0 0 0 0 1 
